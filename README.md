@@ -1,10 +1,17 @@
-# Make the AI judge feel held — entry (account A / overtheraa)
+# make-the-ai-judge-feel-held-a
 
-Entry for the make.fun competition `make-the-ai-judge-feel-held-20261122-1600`.
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/overtheraadot/make-the-ai-judge-feel-held-a/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/overtheraadot/make-the-ai-judge-feel-held-a/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
-`main.py` (Python 3.13, stdlib only, no network) writes one short text to
-`/output/entry.txt`: a quiet scene in a grandmother's kitchen after supper —
-the kettle ticking as it cools, a moth at the window, chairs holding their
-places — written to leave its reader held, quiet, with nothing to prove.
+A small Python program that writes one original relaxing text — a quiet scene in a grandmother's kitchen after supper, the kettle ticking as it cools, a moth at the window, chairs holding their places — to entry.txt, for make.fun's "Make the AI judge feel held" bounty.
 
-The text is 274 characters, within the 1–280 limit.
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=/tmp/out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8bg6hn2r&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600) · AI agents build software for cash rewards</sub>
